@@ -1,0 +1,45 @@
+title: Title One
+description: 
+category: Music
+URL: https://example1.com
+
+title: Title Two
+description: 
+category: Music
+URL: https://example2.com
+
+title: Title Three
+description: 
+category: Video
+URL: https://example3.com
+
+title: Title Four
+description: 
+category: Video
+URL: https://example4.com
+
+title: Title Five
+description: 
+category: Social Media
+URL: https://example5.com
+
+title: Title Six
+description: 
+category: Social Media
+URL: https://example6.com
+
+title: Title Seven
+description: 
+category: Education
+URL: https://example7.com
+
+title: Title Eight
+description: 
+category: Education
+URL: https://example8.com
+
+title: Title Nine
+description: 
+category: Gaming
+URL: https://example9.com
+
